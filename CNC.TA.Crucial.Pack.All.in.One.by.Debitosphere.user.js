@@ -418,7 +418,7 @@ var ScriptAuthors;
 	var Script23;
 	var ScriptName23 = "TA POI Analyser";
 	var ScriptDescription23 = "Display alliance POIs scores and next tier requirements.";
-	var ScriptAuthors23 = "zdoom<br>Debitosphere (fixed by leo7044)";
+	var ScriptAuthors23 = "zdoom<br>Debitosphere<br>leo7044";
 	var Script24;
 	var ScriptName24 = "Green Cross Tools";
 	var ScriptDescription24 = "Tools to help the player manage their gameplay more efficiently and effectively. A non-wrapper take of Maelstrom tools with some original touch.";
